@@ -1,0 +1,24 @@
+# Spring Boot
+backend/target/
+
+# IntelliJ
+backend/.idea/
+**/.idea/
+*.iml
+
+# Node / Angular
+**/node_modules/
+**/dist/
+.angular/
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+.env.*
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
