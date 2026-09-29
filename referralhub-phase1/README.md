@@ -218,28 +218,5 @@ ReferralHub uses Hindsight as an additional memory layer for contextual informat
 
 This allows the application to recall relevant context when it is needed instead of treating every interaction as completely new.
 
-Team
-
-Team: [YOUR TEAM NAME]
-
-Built for HackWith Hyderabad 3.0.
-
-Repository
-
-GitHub:
-
-https://github.com/Sasi0612-beep/ReferralHub
-
-
-### Then save and push
-
-From:
-
-```text
-C:\Users\reddy\Downloads\referralhub-phase1-complete\referralhub-phase1
-
-run:
-
-git add README.md
 git commit -m "Improve project documentation"
 git pushuthentication: passwords are not hashed and there are no JWT/session tokens or Spring Security authorization rules yet.
